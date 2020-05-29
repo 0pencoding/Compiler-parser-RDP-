@@ -1,0 +1,15 @@
+class
+Example
+{
+main
+(
+)
+{
+for
+(
+int
+_i$
+=
+0
+;
+Parsing Error
